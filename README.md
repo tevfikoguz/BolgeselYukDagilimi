@@ -9,7 +9,7 @@ Proje, nesne tabanlı programlama prensipleri kullanılarak yapılandırılmış
 ## Özellikler
 
 *   İki bitişik dikdörtgen bölgesel yük tanımı (yoğunluk, genişlik, uzunluk).
-*   Yük alanının dış kenarlarında yer alan iki paralel kiriş tanımı
+*   Yük alanının dış kenarlarında yer alan iki paralel kiriş tanımı.
 *   Her bir kirişe aktarılan yayılı yüklerin (kN/m cinsinden) hesaplanması.
 *   Hesaplama mantığı: Kirişlerin, aralarındaki toplam yük genişliğini eşit olarak paylaştığı varsayılır (her kiriş toplam genişliğin yarısı kadar bir etki alanına sahiptir).
 *   Hesaplama sonuçlarının konsola raporlanması.
