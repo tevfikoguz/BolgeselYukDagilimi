@@ -4,8 +4,7 @@ Bu proje, basit bir yapısal senaryoda iki bitişik bölgesel yükün (alan yük
 
 Proje, nesne tabanlı programlama prensipleri kullanılarak yapılandırılmıştır ve hesaplama, raporlama ve görselleştirme aşamalarını ayrı sınıflar halinde düzenler. Bu, kodun okunabilirliğini, sürdürülebilirliğini ve genişletilebilirliğini artırmayı hedefler.
 
-![Örnek Görselleştirme](placeholder_screenshot.png)
-*Not: `placeholder_screenshot.png` dosyasını kendi oluşturduğunuz bir ekran görüntüsü ile değiştirin.*
+![Örnek Görselleştirme](Figure_1.png)
 
 ## Özellikler
 
@@ -40,3 +39,6 @@ Ana betik dosyasını (örneğin `load_distributor.py` veya kodunuzun bulunduğu
 
 ```bash
 python load_distributor.py
+
+
+
